@@ -586,6 +586,7 @@ public class Commands extends DefinedPacket
             PROVIDERS.put( "minecraft:ask_server", ASK_SERVER );
             registerDummy( "minecraft:all_recipes" );
             registerDummy( "minecraft:available_sounds" );
+            registerDummy( "minecraft:available_biomes" );
             registerDummy( "minecraft:summonable_entities" );
         }
 
